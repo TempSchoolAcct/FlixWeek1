@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4473FB9123F0E79200E9E49A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4473FB9023F0E79200E9E49A /* Assets.xcassets */; };
 		44CEF2A223E8AC7C00BF4BBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44CEF2A123E8AC7C00BF4BBE /* AppDelegate.swift */; };
 		44CEF2A423E8AC7C00BF4BBE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44CEF2A323E8AC7C00BF4BBE /* SceneDelegate.swift */; };
 		44CEF2A623E8AC7C00BF4BBE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44CEF2A523E8AC7C00BF4BBE /* ViewController.swift */; };
 		44CEF2A923E8AC7C00BF4BBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 44CEF2A723E8AC7C00BF4BBE /* Main.storyboard */; };
-		44CEF2AB23E8AC7D00BF4BBE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 44CEF2AA23E8AC7D00BF4BBE /* Assets.xcassets */; };
 		44CEF2AE23E8AC7D00BF4BBE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 44CEF2AC23E8AC7D00BF4BBE /* LaunchScreen.storyboard */; };
 		44CEF2B923E8AC7D00BF4BBE /* FlixtersTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44CEF2B823E8AC7D00BF4BBE /* FlixtersTests.swift */; };
 		44CEF2C423E8AC7D00BF4BBE /* FlixtersUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44CEF2C323E8AC7D00BF4BBE /* FlixtersUITests.swift */; };
@@ -35,12 +35,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4473FB9023F0E79200E9E49A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = ../../../Flix/Flix/Assets.xcassets; sourceTree = "<group>"; };
 		44CEF29E23E8AC7C00BF4BBE /* Flixters.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Flixters.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		44CEF2A123E8AC7C00BF4BBE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		44CEF2A323E8AC7C00BF4BBE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		44CEF2A523E8AC7C00BF4BBE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		44CEF2A823E8AC7C00BF4BBE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		44CEF2AA23E8AC7D00BF4BBE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		44CEF2AD23E8AC7D00BF4BBE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		44CEF2AF23E8AC7D00BF4BBE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		44CEF2B423E8AC7D00BF4BBE /* FlixtersTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FlixtersTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -103,7 +103,7 @@
 				44CEF2A323E8AC7C00BF4BBE /* SceneDelegate.swift */,
 				44CEF2A523E8AC7C00BF4BBE /* ViewController.swift */,
 				44CEF2A723E8AC7C00BF4BBE /* Main.storyboard */,
-				44CEF2AA23E8AC7D00BF4BBE /* Assets.xcassets */,
+				4473FB9023F0E79200E9E49A /* Assets.xcassets */,
 				44CEF2AC23E8AC7D00BF4BBE /* LaunchScreen.storyboard */,
 				44CEF2AF23E8AC7D00BF4BBE /* Info.plist */,
 			);
@@ -233,7 +233,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				44CEF2AE23E8AC7D00BF4BBE /* LaunchScreen.storyboard in Resources */,
-				44CEF2AB23E8AC7D00BF4BBE /* Assets.xcassets in Resources */,
+				4473FB9123F0E79200E9E49A /* Assets.xcassets in Resources */,
 				44CEF2A923E8AC7C00BF4BBE /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
